@@ -67,7 +67,6 @@ export const styles = StyleSheet.create({
         backgroundColor:'green',
         justifyContent:'center',
         marginTop:20,
-        
     },
     inputView: {
        
