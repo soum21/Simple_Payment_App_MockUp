@@ -18,7 +18,7 @@
     "redux": "^4.0.4",
     "redux-thunk": "^2.3.0",
     "watchman": "1.0.0",
-    "yarn": "^1.7.0"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "babel-jest": "24.9.0",
